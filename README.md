@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </p>
-  
+   
   <h4>Tools & Platforms</h4>
   <p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -55,12 +55,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishanshanuka&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dishanshanuka&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dishanshanuka&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dishanshanuka&theme=dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishanshanuka&layout=compact&theme=dark&bg_color=0D1117&title_color=58a6ff&hide_border=true" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishanshanuka&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <br>
@@ -70,9 +70,9 @@
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/dishanshanuka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/dishanshanuka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:udshanuka11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://dishan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://dishan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br>
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center" style="color:#A2A2A7;">
-  _"Crafting solutions for a digital future."_
+  <i>"Crafting solutions for a digital future."</i>
 </p>
