@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </p>
-   
+    
   <h4>Tools & Platforms</h4>
   <p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -55,8 +55,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishanshanuka&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dishanshanuka&theme=dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dishanshanuka&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dishanshanuka&theme=dark&hide_border=true&background=0D1117&count_private=true&v=1" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
